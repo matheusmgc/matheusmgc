@@ -40,7 +40,6 @@
 Mesmo com meus projetos principais sendo privados, aqui está um resumo da minha atividade geral na plataforma:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmgc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estatísticas do Matheus" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmgc&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
@@ -52,7 +51,13 @@ Mesmo com meus projetos principais sendo privados, aqui está um resumo da minha
   <a href="mailto:m2gcorreia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="www.linkedin.com/in/mmgcorreia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://lattes.cnpq.br/4713043127163147" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo_Lattes-004D99?style=for-the-badge&logoColor=white" alt="Lattes" />
+  </a>
+  <a href="https://orcid.org/0000-0002-0069-7405" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
 </p>
