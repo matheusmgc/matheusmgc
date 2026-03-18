@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus Correia! 👋</h1>
+<h1 align="center">Prazer! Sou Matheus, mais conhecido como Papaco 👋</h1>
 
 <h3 align="center">Desenvolvedor de Aplicações Geoespaciais | Física Computacional & Computação Aplicada</h3>
 
@@ -19,8 +19,6 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-
-*(Nota: Adicione ou remova as tecnologias de acordo com o que você mais utiliza. Abaixo estão as mais comuns no seu ecossistema)*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
